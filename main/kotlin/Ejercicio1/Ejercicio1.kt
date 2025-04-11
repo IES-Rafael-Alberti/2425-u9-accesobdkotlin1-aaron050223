@@ -1,4 +1,4 @@
-package org.example
+package org.example.Ejercicio1
 
 import java.sql.DriverManager
 import java.sql.SQLException
